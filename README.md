@@ -1,8 +1,6 @@
-![Expertizo](./Expertizo-logo.png)
-
 ---
 
-# Expertizo Engineering React Quiz Challenge
+# React Quiz Challenge
 
 Quizes are common feature of our student-facing apps.
 
